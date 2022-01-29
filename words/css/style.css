@@ -1311,4 +1311,14 @@ input[type="text"] {
 .paranew{
 	margin-top: 2em;
 }
+
+.workanew {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  position: relative;
+  height: 1300px;
+  width: 900px;
+  margin-bottom: 30px;
+}
 /*# sourceMappingURL=style.css.map */
